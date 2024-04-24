@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iWDnmibptRksKVRrqR3WAyVOdz9tsIGE7+XksFHQBfzmlo8NL8irh1VlfV//9YGYyKaj7uVyYog6swEdr1N/aw==",
+  "dgSpecHash": "HAp6aYshdGFIXM4VP4Ntjn4RxWBG4w0NRY7Y7ZfS5YSzSZvAR3Alm2IIgT2XR6qaekIlpnlX1i92vLxZXEwNtw==",
   "success": true,
   "projectFilePath": "C:\\Users\\franb\\Documents\\Fran\\DEV\\sistema-ventas-angular-aspnet\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\franb\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\franb\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\franb\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\franb\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

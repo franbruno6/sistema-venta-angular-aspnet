@@ -9,3 +9,4 @@ C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\
 C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\refint\SistemaVenta.DTO.dll
 C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.pdb
 C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\ref\SistemaVenta.DTO.dll
+C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.sourcelink.json

@@ -15,3 +15,4 @@ C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\
 C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Model.pdb
 C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
 C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.csproj.CopyComplete
+C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.sourcelink.json

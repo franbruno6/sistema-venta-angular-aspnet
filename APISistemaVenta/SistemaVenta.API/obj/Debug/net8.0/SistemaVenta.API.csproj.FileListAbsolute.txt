@@ -80,3 +80,5 @@ C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\
 C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.DAL.pdb
 C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.Model.pdb
 C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.API\obj\Debug\net8.0\SistemaVenta.API.sourcelink.json
+C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\AutoMapper.dll

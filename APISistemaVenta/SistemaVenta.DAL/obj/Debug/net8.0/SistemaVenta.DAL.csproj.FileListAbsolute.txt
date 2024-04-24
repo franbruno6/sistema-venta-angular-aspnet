@@ -13,3 +13,4 @@ C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\
 C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.Model.pdb
 C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
 C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.CopyComplete
+C:\Users\franb\Documents\Fran\DEV\sistema-ventas-angular-aspnet\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.sourcelink.json
